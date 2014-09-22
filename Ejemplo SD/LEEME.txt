@@ -1,0 +1,19 @@
+Adjunto ejemplo visto en la ayudantía
+
+Recuerden que el package.json debe contener las versiones de las dependencias que ustedes tengan, así que deben modificarlo antes de instalarlo con sudo npm install.
+
+Tambien recuerden verificar que node está bien instalado:
+
+node -v
+
+y también npm (node package manager):
+
+npm -v
+
+y para obtener las versiones de las dependencias que poseen, el comando es:
+
+npm info "nombre de la dependencia" version
+
+Cualquier otra duda, me pueden enviar un correo.
+
+Saludos

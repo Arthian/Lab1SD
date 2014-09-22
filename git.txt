@@ -1,0 +1,5 @@
+entrar a la carpeta y hacer:
+git pull
+git add -A
+git commit -m "mensaje"
+git push
